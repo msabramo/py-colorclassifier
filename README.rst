@@ -15,6 +15,8 @@ the most appropriate color name it can find.
 Usage
 -----
 
+.. code-block:: python
+
     >>> from colorclassifier import Classifier
     >>> classifier = Classifier(
     ...    rgb=[255, 170, 0])
